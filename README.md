@@ -27,4 +27,4 @@
 
 ⭐ Perfil em construção ⭐
 
-Gosto muito do meio tecnológio. Sou alguém de fácil aprendizado, portanto, estou absorvendo o máximo de aprendizado nessa área que gosto muito através da faculdade e também cursos online.
+Tenho grande interesse pela área de tecnologia. Sou uma pessoa de fácil aprendizado e, por isso, estou aproveitando ao máximo para adquirir conhecimento nessa área, tanto por meio da faculdade quanto através de cursos online.
