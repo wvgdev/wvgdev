@@ -28,5 +28,3 @@
 ⭐ Perfil em construção ⭐
 
 Tenho grande interesse pela área de tecnologia. Sou uma pessoa de fácil aprendizado e, por isso, estou aproveitando ao máximo para adquirir conhecimento nessa área, tanto por meio da faculdade quanto através de cursos online.
-
-file:///C:/Users/Wesll/Downloads/github-user-contribution%20(4).svg
