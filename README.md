@@ -28,3 +28,6 @@
 ⭐ Perfil em construção ⭐
 
 Tenho grande interesse pela área de tecnologia. Sou uma pessoa de fácil aprendizado e, por isso, estou aproveitando ao máximo para adquirir conhecimento nessa área, tanto por meio da faculdade quanto através de cursos online.
+
+
+![snake gif](https://github.com/wvgdev/wvgdev/blob/output/github-contribution-grid-snake.svg)
