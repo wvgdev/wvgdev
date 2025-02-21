@@ -28,5 +28,3 @@
 ⭐ Perfil em construção ⭐
 
 Tenho grande interesse pela área de tecnologia. Sou uma pessoa de fácil aprendizado e, por isso, estou aproveitando ao máximo para adquirir conhecimento nessa área, tanto por meio da faculdade quanto através de cursos online.
-
-![github-user-contribution (4)](https://github.com/user-attachments/assets/f60857f6-c581-4033-a299-cc51075835b6)
