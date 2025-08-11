@@ -23,4 +23,6 @@
 
 ⭐ Perfil em construção ⭐
 
-Tenho grande interesse pela área de tecnologia. Sou uma pessoa de fácil aprendizado e, por isso, estou aproveitando ao máximo para adquirir conhecimento nessa área, tanto por meio da faculdade quanto através de cursos online.
+Tenho grande interesse pela área de tecnologia. Sou uma pessoa de fácil aprendizado e, por isso, estou aproveitando ao máximo para adquirir conhecimento nessa área, tanto por meio da faculdade quanto através de cursos online. 
+
+Faço parte do FuzzyLab e também da RedBone, grupo de desenvolvimento de software e robótica, respectivamente, onde consigo obter alguma experiência dentro do mundo da programação.
