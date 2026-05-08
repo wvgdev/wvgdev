@@ -5,8 +5,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weslley-garcia-b033b8181/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yelley.w)
 
-<br/>
-
 ## Tecnologias que possuo conhecimento:
 
 <div style="display: inline_block"><br/>
@@ -18,10 +16,6 @@
 <img text-align='center' alt='Java' src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white'/>
 
 </br>
-</br>
 
 ⭐ Perfil em construção ⭐
 
-Tenho grande interesse pela área de tecnologia. Sou uma pessoa de fácil aprendizado e, por isso, estou aproveitando ao máximo para adquirir conhecimento nessa área, tanto por meio da faculdade quanto através de cursos online. 
-
-Faço parte do FuzzyLab e também da RedBone, grupo de desenvolvimento de software e robótica, respectivamente, onde consigo obter alguma experiência dentro do mundo da programação.
