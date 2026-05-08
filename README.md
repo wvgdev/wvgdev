@@ -7,8 +7,6 @@
 
 <br/>
 
-![Weslley GitHub stats](https://github-readme-stats.vercel.app/api?username=wvgdev&show_icons=true&theme=onedark)
-
 ## Tecnologias que possuo conhecimento:
 
 <div style="display: inline_block"><br/>
